@@ -101,6 +101,9 @@ Ensure you configure your `.env` files properly for both **frontend** and **back
 
 ![image](https://github.com/user-attachments/assets/65c8b3a6-80a2-416c-b687-c2c34da5df1f)
 
+![image](https://github.com/user-attachments/assets/efd51c18-4575-46c6-a699-9b0ac0e55811)
 
+![image](https://github.com/user-attachments/assets/8d1da612-5ee3-4f98-ae20-58e9672c7a10)
 
+![image](https://github.com/user-attachments/assets/0ddd366c-c594-4120-b68c-41b77b674c64)
 
