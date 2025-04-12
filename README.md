@@ -99,6 +99,7 @@ Ensure you configure your `.env` files properly for both **frontend** and **back
 ---
 
 
+![image](https://github.com/user-attachments/assets/65c8b3a6-80a2-416c-b687-c2c34da5df1f)
 
 
 
