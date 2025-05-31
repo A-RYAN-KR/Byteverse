@@ -7,7 +7,7 @@ exports.uploadImage = void 0;
 const uploadCloudinary_1 = __importDefault(require("../uploadCloudinary"));
 const fs_1 = __importDefault(require("fs"));
 const axios_1 = __importDefault(require("axios"));
-const GEMINI_API_KEY = 'AIzaSyDLG3ObQNfMpftULAT43lLkBQtmUnwZnqs';
+const GEMINI_API_KEY = 'AI***********************************s';
 const encodeImage = (imagePath) => {
     try {
         return fs_1.default.readFileSync(imagePath, { encoding: "base64" });
